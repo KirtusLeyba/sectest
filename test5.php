@@ -1,0 +1,3 @@
+<?php
+header('sneaky: supersneaky');
+?>
